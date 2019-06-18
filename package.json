@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "vue run dev"
+    "start": "vue-cli-service serve  --open --port 2342"
   },
   "dependencies": {
     "core-js": "^2.6.5",
