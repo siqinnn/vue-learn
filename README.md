@@ -1,2 +1,2 @@
 # vue_learn
-vue 学习笔记
+vue 学习笔记2
